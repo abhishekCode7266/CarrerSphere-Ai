@@ -1,0 +1,6 @@
+{
+  "name": "CareerSphere AI",
+  "description": "Your AI-powered platform for learning, career guidance, job preparation, interviews and professional growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
